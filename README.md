@@ -1,2 +1,2 @@
 # Materialize-RTL
-Materialize for RTL languages
+Materialize for RTL languages (Arabic & Hebrew)
